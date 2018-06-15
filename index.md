@@ -6,7 +6,7 @@ _hello everyone!_
 PERSON_SETTINGS = dict(name='Maksim',
                        sirname='Danilchenko',
                        age=23,
-                       profession='Software Engeneer')
+                       profession='Software Engineer')
 
 with developer_mode(**PERSON_SETTINGS) as developer:
     developer.develop()
