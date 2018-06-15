@@ -1,6 +1,6 @@
-## GitHub Pages starting point
+## Posts
 
-_hello everyone!_
+[about me](./about)
 
 ```python
 PERSON_SETTINGS = dict(name='Maksim',
