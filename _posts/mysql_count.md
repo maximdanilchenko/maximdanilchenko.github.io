@@ -18,14 +18,19 @@ So here is a little but useful snippet to add total count to custom sqlalchemy q
 ```python
 from collections import namedtuple
 
-QueryResult = namedtuple('QueryResult', ['result', 'total'])
+QueryResult = namedtuple('QueryResult', ['result', 
+                                         'total'])
 
 
 def with_total(query):
     """ 
-    Returns query total rows count without limits with its results 
+    Returns query total rows count 
+    without limits with its results 
     """
-    result = query.prefix_with('SQL_CALC_FOUND_ROWS').all()
-    total = db.session.execute('SELECT FOUND_ROWS();').scalar()
+    result = query.prefix_with(
+        'SQL_CALC_FOUND_ROWS').all()
+    total = db.session.execute(
+        'SELECT FOUND_ROWS();').scalar()
     return QueryResult(result, total)
+
 ```
