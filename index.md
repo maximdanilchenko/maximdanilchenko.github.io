@@ -1,3 +1,5 @@
+en | [ru](./ru.html)
+
 ```python
 PERSON_SETTINGS = dict(name='Maksim',
                        sirname='Danilchenko',
@@ -26,13 +28,13 @@ Some other projects mostly for fun (like [lazy](https://github.com/maximdanilche
 
 ```Python``` - strong knowledge of the language, extensive knowledge of tools and methods to solve typical and non-typical problems, mostly in web development. Also I have experience in ```C++```, ```JS```, ```Erlang```
 
-Databases - relational DBs (```PostgreSQL```, ```MySQL```), column DBs (```Cassandra```/```Scylla```), ```MongoDB```, Cashing (```Redis```/```MemCashed```)
+Databases - relational DBs (```PostgreSQL```, ```MySQL```), column DBs (```Cassandra```/```Scylla```), ```MongoDB```, cashing (```Redis```/```MemCashed```)
 
 Queues/PubSub - ```RabbitMQ```/```Redis```
 
 Unit/Integration/Load ```Testing```
 
-```HTTP```/```sockets``` protocols, ```JSON```/```Protobuf```/```TLV```(binary)/```XML```/```CSV ```data formats
+```HTTP```/```sockets``` protocols, ```JSON```/```Protobuf```/```TLV```(binary)/```XML```/```CSV ``` data formats
 
 ```HTML```/```JS```/```CSS``` - enough for understanding and building simple web sites
 
