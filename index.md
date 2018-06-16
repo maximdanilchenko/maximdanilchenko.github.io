@@ -13,13 +13,13 @@ My name is Maksim. I'm software engineer. My specialization is designing and dev
 
 ### My open source projects:
 
-[aiohttp-apispec](https://github.com/maximdanilchenko/aiohttp-apispec) - extension to ```aiohttp``` that helps in building and documenting REST APIs.
+[```aiohttp-apispec```](https://github.com/maximdanilchenko/aiohttp-apispec) - extension to ```aiohttp``` that helps in building and documenting REST APIs.
 
-[radish](https://github.com/maximdanilchenko/radish) - redis-like DB and its async client implementation written in python36/asyncio without any dependencies.
+[```radish```](https://github.com/maximdanilchenko/radish) - redis-like DB and its async client implementation written in python36/asyncio without any dependencies.
 
-[mgun](https://github.com/maximdanilchenko/mgun) - HTTP REST Client based on ```requests``` with dynamic url building (and its async analog - [async-mgun](https://github.com/maximdanilchenko/async-mgun)).
+[```mgun```](https://github.com/maximdanilchenko/mgun) - HTTP REST Client based on ```requests``` with dynamic url building (and its async analog - [```async-mgun```](https://github.com/maximdanilchenko/async-mgun)).
 
-And some other projects mostly for fun (like [lazy](https://github.com/maximdanilchenko/lazy)) or experience you can find on [my github](https://github.com/maximdanilchenko)
+And some other projects mostly for fun (like [```lazy```](https://github.com/maximdanilchenko/lazy)) or experience you can find on [my github](https://github.com/maximdanilchenko)
 
 ### I am good at:
 
@@ -42,6 +42,7 @@ CI/CD (Jenkins/TravisCI/TeamCity) - building, testing and deploying automation, 
 
 Project management - Jira/Trello, Confluence, Microsoft Project
 
-Feel free to contact me here:
+### Feel free to contact me here:
+
 ##### [dmax.dev@gmail.com](mailto:dmax.dev@gmail.com) |  [LinkedIn](https://linkedin.com/in/maximdanilchenko)  |  [GitHub](https://github.com/maximdanilchenko)
 
