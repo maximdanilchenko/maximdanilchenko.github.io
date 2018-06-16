@@ -1,4 +1,4 @@
-en | [ru](./ru.html)
+##### en | [ru](./ru.html)
 
 ```python
 PERSON_SETTINGS = dict(name='Maksim',

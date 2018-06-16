@@ -1,4 +1,4 @@
-[en](./) | ru
+##### [en](./) | ru
 
 ```python
 PERSON_SETTINGS = dict(name='Максим',
