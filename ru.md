@@ -21,7 +21,7 @@ with developer_mode(**PERSON_SETTINGS) as developer:
 
 [mgun](https://github.com/maximdanilchenko/mgun) - HTTP REST клиент построенный с помощью [requests](https://github.com/requests/requests) с динамическим постоением url'ов (и его асинхронный аналог - [async-mgun](https://github.com/maximdanilchenko/async-mgun)).
 
-Другие проекты, существующие в основном для практики или по фану (типа [lazy](https://github.com/maximdanilchenko/lazy)) можно найти на [моём github](https://github.com/maximdanilchenko)
+Другие проекты, существующие в основном для практики или по фану (типа [lazy](https://github.com/maximdanilchenko/lazy) - генератора html разметки) можно найти на [моём github](https://github.com/maximdanilchenko)
 
 ### Мой технический стэк:
 

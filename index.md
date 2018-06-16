@@ -21,7 +21,7 @@ My name is Maksim. I'm software engineer. My specialization is designing and dev
 
 [mgun](https://github.com/maximdanilchenko/mgun) - HTTP REST Client based on [requests](https://github.com/requests/requests) with dynamic url building (and its async analog - [async-mgun](https://github.com/maximdanilchenko/async-mgun)).
 
-Some other projects mostly for fun (like [lazy](https://github.com/maximdanilchenko/lazy)) or experience you can find on [my github](https://github.com/maximdanilchenko)
+Some other projects mostly for fun (like [lazy](https://github.com/maximdanilchenko/lazy) - html markup generator) or experience you can find on [my github](https://github.com/maximdanilchenko)
 
 ### I am good at:
 
