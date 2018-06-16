@@ -13,34 +13,34 @@ My name is Maksim. I'm software engineer. My specialization is designing and dev
 
 ### My open source projects:
 
-[```aiohttp-apispec```](https://github.com/maximdanilchenko/aiohttp-apispec) - extension to ```aiohttp``` that helps in building and documenting REST APIs.
+[**aiohttp-apispec**](https://github.com/maximdanilchenko/aiohttp-apispec) - extension to [**aiohttp**](https://github.com/aio-libs/aiohttp) that helps in building and documenting REST APIs.
 
-[```radish```](https://github.com/maximdanilchenko/radish) - redis-like DB and its async client implementation written in python36/asyncio without any dependencies.
+[**radish**](https://github.com/maximdanilchenko/radish) - redis-like DB and its async client implementation written in python36/asyncio without any dependencies.
 
-[```mgun```](https://github.com/maximdanilchenko/mgun) - HTTP REST Client based on ```requests``` with dynamic url building (and its async analog - [```async-mgun```](https://github.com/maximdanilchenko/async-mgun)).
+[**mgun**](https://github.com/maximdanilchenko/mgun) - HTTP REST Client based on [**requests**](https://github.com/requests/requests) with dynamic url building (and its async analog - [**async-mgun**](https://github.com/maximdanilchenko/async-mgun)).
 
-And some other projects mostly for fun (like [```lazy```](https://github.com/maximdanilchenko/lazy)) or experience you can find on [my github](https://github.com/maximdanilchenko)
+Some other projects mostly for fun (like [**lazy**](https://github.com/maximdanilchenko/lazy)) or experience you can find on [my github](https://github.com/maximdanilchenko)
 
 ### I am good at:
 
 
-Python - strong knowledge of the language, extensive knowledge of tools and methods to solve typical and non-typical problems, mostly in web development. Also I have experience in C++, JS, C#, Erlang
+```Python``` - strong knowledge of the language, extensive knowledge of tools and methods to solve typical and non-typical problems, mostly in web development. Also I have experience in ```C++```, ```JS```, ```Erlang```
 
-Databases - relational DBs (PostgreSQL, MySQL), column DBs (Cassandra/Scylla), MongoDB, Cashing (Redis/MemCashed)
+Databases - relational DBs (```PostgreSQL```, ```MySQL```), column DBs (```Cassandra```/```Scylla```), ```MongoDB```, Cashing (```Redis```/```MemCashed```)
 
-Queues/PubSub - RabbitMQ/Redis
+Queues/PubSub - ```RabbitMQ```/```Redis```
 
 Unit/Integration/Load Testing
 
-HTTP/sockets protocols, JSON/Protobuf/TLV(binary)/XML/CSV data formats
+```HTTP```/```sockets``` protocols, ```JSON```/```Protobuf```/```TLV```(binary)/```XML```/```CSV ```data formats
 
-HTML/JS/CSS - enough for understanding and building simple web sites
+```HTML```/```JS```/```CSS``` - enough for understanding and building simple web sites
 
-ML/Big Data - Recommendation systems, text mining, classification
+ML/Big Data - ```recommendation systems```, ```text mining```, ```classification```
 
-CI/CD (Jenkins/TravisCI/TeamCity) - building, testing and deploying automation, version control tools (Git/SVN)
+CI/CD (```Jenkins```/```TravisCI```/```TeamCity```) - building, testing and deploying automation, version control tools (```Git```/```SVN```)
 
-Project management - Jira/Trello, Confluence, Microsoft Project
+Project management - ```Jira```/```Trello```, ```Confluence```, ```Microsoft Project```
 
 ### Feel free to contact me here:
 
