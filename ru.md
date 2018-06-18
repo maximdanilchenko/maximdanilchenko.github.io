@@ -23,7 +23,7 @@ with developer_mode(**PERSON_SETTINGS) as developer:
 
 Другие проекты, существующие в основном для практики или по фану (типа [lazy](https://github.com/maximdanilchenko/lazy) - генератора html разметки) можно найти на [моём github](https://github.com/maximdanilchenko)
 
-### Мой технический стэк:
+### Что я знаю:
 
 
 ```Python``` - отличное знание языка и большого количества связанных инструментов, в основном в сфере web разработки. Есть опыт с ```C++```, ```JS```, ```Erlang```
